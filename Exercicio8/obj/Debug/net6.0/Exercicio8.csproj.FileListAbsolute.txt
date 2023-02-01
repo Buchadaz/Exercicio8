@@ -1,0 +1,15 @@
+D:\estudocsharp\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.exe
+D:\estudocsharp\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.deps.json
+D:\estudocsharp\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.runtimeconfig.json
+D:\estudocsharp\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.dll
+D:\estudocsharp\Exercicio8\Exercicio8\bin\Debug\net6.0\Exercicio8.pdb
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.csproj.AssemblyReference.cache
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.AssemblyInfoInputs.cache
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.AssemblyInfo.cs
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.csproj.CoreCompileInputs.cache
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.dll
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\refint\Exercicio8.dll
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.pdb
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\Exercicio8.genruntimeconfig.cache
+D:\estudocsharp\Exercicio8\Exercicio8\obj\Debug\net6.0\ref\Exercicio8.dll
